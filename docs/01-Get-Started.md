@@ -14,12 +14,12 @@ For this workshop you are using a custom playground build on-top of the Azure Op
 ## Authenticate
 
 Your workshop instructor will provide you with an **access key** that will be valid during the workshop session. Setup is now a quick 2-step process. 
- 1. Navigate to the [Azure OpenAI EU Summit Workshop](https://aka.ms/AOAIEUSummit) in new browser window.
+ 1. Navigate to the [Azure OpenAI EU Summit Workshop Playground](https://aka.ms/AOAIEUSummit) in new browser window.
     ![LoginusingGithub](./images/Github_signin.png) 
  2. Signup for an access key using your GitHub Account
  3. Copy the the **access-key** provided 
     ![GetKey](./images/Getkey.png) 
- 4. Enter your key and click `Authorize` to login.
+ 4. Enter your key in the [Workshop Playground](https://aka.ms/AOAIEUSummit) and click `Authorize` to login.
     ![AI Tour Playground](./images/aitour-playground-chat.png) 
 
 
