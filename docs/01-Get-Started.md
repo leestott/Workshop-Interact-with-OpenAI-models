@@ -18,7 +18,7 @@ Your workshop instructor will provide you with an **access key** that will be va
     ![LoginusingGithub](./images/Github_signin.png) 
  2. Signup for an access key using your GitHub Account
  3. Copy the the **access-key** provided 
-    ![GetKey](./images/GetKey.png) 
+    ![GetKey](./images/Getkey.png) 
  4. Enter your key and click `Authorize` to login.
     ![AI Tour Playground](./images/aitour-playground-chat.png) 
 
