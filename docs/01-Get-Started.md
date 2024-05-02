@@ -21,6 +21,8 @@ Your workshop instructor will provide you with an **access key** that will be va
     ![GetKey](./images/Getkey.png) 
  4. Enter your key in the [Workshop Playground](https://aka.ms/AOAIEUSummit) and click `Authorize` to login.
     ![AI Tour Playground](./images/aitour-playground-chat.png) 
+ 5. Select the model you wish to use gpt-35-turbo 
+   ![Model Selection](./images/selectamodel.png)
 
 
 ## Explore
