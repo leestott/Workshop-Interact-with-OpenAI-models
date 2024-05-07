@@ -39,10 +39,10 @@ There are many considerations when choosing a model.
 
 As a general guide, we recommend the following:
 - **Start with gpt-35-turbo.** This model is very economical and has good performance. It's commonly used for chat applications (such as OpenAI's ChatGPT) but can be used for a wide range of tasks beyond chat and conversation.
-- **Move to gpt-35-turbo-16k, gpt-4 or gpt-4-32k** if you need to generate more than 4,096 tokens, or need to support larger prompts. These models are more expensive and can be slower, and have limited availability, but they are the most powerful models available today. *We'll cover tokenization in more detail in a later lesson.*
+- **Move to gpt-4 or gpt-4-32k** if you need to generate more than 4,096 tokens, or need to support larger prompts. These models are more expensive and can be slower, and have limited availability, but they are the most powerful models available today. *We'll cover tokenization in more detail in a later lesson.*
 - **Consider embeddings** for tasks like search, clustering, recommendations and anomaly detection. 
-- **Use DALL-E (Preview) for generating images** from text prompts that the user provides, unlike previous models where the output is text (chat). 
-- **Use Whisper (Preview) for speech-to-text** conversion or audio transcription. It's trained and optimized for transcribing audio files with English speech, though it can transcribe speech in other languages. The model output is in English text. Use it to rapidly transcribe individual audio files or for translating audio from other languages into English - given prompt-based guidance.
+- **Use DALL-E for generating images** from text prompts that the user provides, unlike previous models where the output is text (chat). 
+- **Use Whisper for speech-to-text** conversion or audio transcription. It's trained and optimized for transcribing audio files with English speech, though it can transcribe speech in other languages. The model output is in English text. Use it to rapidly transcribe individual audio files or for translating audio from other languages into English - given prompt-based guidance.
 
 [🔖 | Learn more](https://learn.microsoft.com/azure/ai-services/openai/how-to/working-with-models?tabs=powershell)
 
